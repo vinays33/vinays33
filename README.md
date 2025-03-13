@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there! 👋 I'm Vinay Kumar Rathor  
 
-<!--
-**vinays33/vinays33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Embedded Systems Enthusiast | IoT Developer | BSP & Kernel Developer**  
 
-Here are some ideas to get you started:
+### 🔧 About Me  
+I am passionate about **Embedded Systems, IoT, and Linux Development**. With a strong foundation in **C programming, microcontrollers, and hardware-software integration**, I love building efficient and optimized embedded solutions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning  
+- **Linux Device Drivers (LDD) & BSP Development**  
+- **Real-Time Operating Systems (RTOS)**  
+- **Low-Level Embedded Programming & Firmware Development**  
+
+### 💡 What I Do  
+- Develop **embedded solutions** using **STM32, ESP32, and LoRa**  
+- Work on **real-time systems, bootloaders, and kernel-level programming**  
+- Explore **IoT applications** with cloud integration and remote monitoring  
+
+### 📫 Let's Connect!  
+- **GitHub:** [vinays33](https://github.com/vinays33)  
+- **LinkedIn:** [Your LinkedIn Profile](#)  
+- **Email:** [Your Email](#)  
+
+💬 **Let’s discuss Embedded Systems, Linux, and IoT innovations!** 🚀  
