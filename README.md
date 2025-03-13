@@ -1,23 +1,28 @@
 ## Hi there! 👋 I'm Vinay Kumar Rathor  
 
-🚀 **Embedded Systems Enthusiast | IoT Developer | BSP & Kernel Developer**  
+🚀 **Embedded Systems Engineer | IoT Developer | Linux Enthusiast**  
 
 ### 🔧 About Me  
-I am passionate about **Embedded Systems, IoT, and Linux Development**. With a strong foundation in **C programming, microcontrollers, and hardware-software integration**, I love building efficient and optimized embedded solutions.  
+I’m a **B.Tech graduate in Electronics & Communication Engineering**, with a **PG Diploma in Embedded System Design** from **CDAC Hyderabad**. I specialize in **Embedded C programming, DSA, Microcontroller Interfacing, SoC, ARM, Linux Device Drivers, Real-Time OS, IoT, and Embedded AI**. Passionate about low-level programming, firmware optimization, and real-time applications.  
 
 ### 🌱 Currently Learning  
-- **Linux Device Drivers (LDD) & BSP Development**  
-- **Real-Time Operating Systems (RTOS)**  
-- **Low-Level Embedded Programming & Firmware Development**  
+- **Advanced Embedded Linux & Device Drivers**  
+- **Real-Time Operating Systems (RTOS) & Low-Power Embedded Design**  
+- **Secure IoT Protocols (MQTT, CoAP, Zigbee) & Cloud Integration**  
 
-### 💡 What I Do  
-- Develop **embedded solutions** using **STM32, ESP32, and LoRa**  
-- Work on **real-time systems, bootloaders, and kernel-level programming**  
-- Explore **IoT applications** with cloud integration and remote monitoring  
+### 🛠️ Technical module knows
+✅ **Embedded Systems Design & Development**  
+✅ **Embedded C Programming**  
+✅ **Data Structures & Algorithms**  
+✅ **Microcontroller & SoC Interfacing**  
+✅ **Embedded Operating Systems & RTOS**  
+✅ **Linux Device Drivers & Kernel Programming**  
+✅ **Internet of Things (IoT) & Cloud Integration**  
+✅ **Aptitude & Effective Communication**  
 
-### 📫 Let's Connect!  
+### 📫 Let’s Connect!  
 - **GitHub:** [vinays33](https://github.com/vinays33)  
-- **LinkedIn:** [Your LinkedIn Profile](#)  
-- **Email:** [Your Email](#)  
+- **LinkedIn:** [www.linkedin.com/in/vkrathor6265](https://www.linkedin.com/in/vkrathor6265)  
+- **Email:** [vinaykrathor6265@gmail.com](mailto:vinaykrathor6265@gmail.com)  
 
-💬 **Let’s discuss Embedded Systems, Linux, and IoT innovations!** 🚀  
+💬 **Open to collaboration, discussions, and learning new tech together!** 🚀  
