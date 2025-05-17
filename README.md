@@ -24,6 +24,5 @@ I’m a **B.Tech graduate in Electronics & Communication Engineering**, with a *
 - **GitHub:** [vinays33](https://github.com/vinays33)  
 - **LinkedIn:** [www.linkedin.com/in/vkrathor6265](https://www.linkedin.com/in/vkrathor6265)  
 - **Email:** [vinaykrathor6265@gmail.com](mailto:vinaykrathor6265@gmail.com)
-- **Resmed
-
+  
 💬 **Open to collaboration, discussions, and learning new tech together!** 🚀  
