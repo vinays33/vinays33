@@ -1,28 +1,56 @@
-## Hi there! 👋 I'm Vinay Kumar Rathor  
+👨‍💻 Vinay Kumar Rathor
+🚀 Embedded Systems Engineer | IoT Developer | Linux Enthusiast
+🎯 Seeking roles: BSP Developer, IoT Developer, Linux Developer, Kernel Developer, Hardware Designer, System Test Engineer, Embedded Software Engineer, Boot Developer, and more.
 
-🚀 **Embedded Systems Engineer | IoT Developer | Linux Enthusiast**  
+⚙️ About Me
+I’m a B.Tech graduate in Electronics & Communication Engineering and a PG Diploma holder in Embedded System Design from CDAC Hyderabad. I’m passionate about embedded systems, IoT, and Linux-based development. I love working on real-time applications, firmware, and low-level system programming.
 
-### 🔧 About Me  
-I’m a **B.Tech graduate in Electronics & Communication Engineering**, with a **PG Diploma in Embedded System Design** from **CDAC Hyderabad**. I specialize in **Embedded C programming, DSA, Microcontroller Interfacing, SoC, ARM, Linux Device Drivers, Real-Time OS, IoT, and Embedded AI**. Passionate about low-level programming, firmware optimization, and real-time applications.  
+🧩 Technical Modules Known
+✔️ Embedded Systems Design & Development
+✔️ Embedded C Programming
+✔️ Data Structures & Algorithms (DSA)
+✔️ Microcontroller & SoC Interfacing
+✔️ Embedded Operating Systems & RTOS
+✔️ Linux Device Drivers & Kernel Programming
+✔️ Internet of Things (IoT) & Cloud Integration
+✔️ Aptitude & Effective Communication
 
-### 🌱 Currently Learning  
-- **Advanced Embedded Linux & Device Drivers**  
-- **Real-Time Operating Systems (RTOS) & Low-Power Embedded Design**  
-- **Secure IoT Protocols (MQTT, CoAP, Zigbee) & Cloud Integration**  
+🛠️ Skills
+💻 Core Programming
 
-### 🛠️ Technical module knows
-✅ **Embedded Systems Design & Development**  
-✅ **Embedded C Programming**  
-✅ **Data Structures & Algorithms**  
-✅ **Microcontroller & SoC Interfacing**  
-✅ **Embedded Operating Systems & RTOS**  
-✅ **Linux Device Drivers & Kernel Programming**  
-✅ **Internet of Things (IoT) & Cloud Integration**  
-✅ **Aptitude & Effective Communication**  
+Embedded C, Data Structures & Algorithms
 
-### 📫 Let’s Connect!  
-- **GitHub:** [vinays33](https://github.com/vinays33)  
-- **LinkedIn:** [www.linkedin.com/in/vkrathor6265](https://www.linkedin.com/in/vkrathor6265)  
-- **Email:** [vinaykrathor6265@gmail.com](mailto:vinaykrathor6265@gmail.com)
-  
-💬 **Open to collaboration, discussions, and learning new tech together!** 🚀  
+🔧 Embedded Hardware
+
+ARM Cortex-M (STM32), ESP32, Raspberry Pi
+
+IoT Devices, Electronic Circuitry
+
+📡 Communication Protocols
+
+UART, I2C, SPI, CAN
+
+MQTT, HTTP, Wi-Fi, Zigbee, Bluetooth
+
+🖥️ Operating Systems
+
+Linux, FreeRTOS, Windows
+
+🧰 Software & Tools
+
+STM32CubeIDE, VS Code, GitHub, ThinkSpeak
+
+Microsoft Office, Git, Serial Communication Tools
+
+📫 Let’s Connect
+📄 Resume: View My Resume
+
+🔗 GitHub: vinays33
+
+🔗 LinkedIn: linkedin.com/in/vkrathor6265
+
+✉️ Email: vinaykrathor6265@gmail.com
+
+📞 Mobile: +91 6265002711
+
+🤝 Open to collaboration, learning, and building innovative embedded solutions together.
