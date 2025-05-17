@@ -2,12 +2,8 @@
 🚀 Embedded Systems Engineer | IoT Developer | Linux Enthusiast  
 🎯 Seeking roles: BSP Developer, IoT Developer, Linux Developer, Kernel Developer, Hardware Designer, System Test Engineer, Embedded Software Engineer, Boot Developer, and more.
 
----
-
 ### ⚙️ About Me  
 I’m a B.Tech graduate in Electronics & Communication Engineering and a PG Diploma holder in Embedded System Design from CDAC Hyderabad. I’m passionate about embedded systems, IoT, and Linux-based development. I love working on real-time applications, firmware, and low-level system programming.
-
----
 
 ### 🧩 Technical Modules Known  
 ✔️ Embedded Systems Design & Development  
@@ -18,8 +14,6 @@ I’m a B.Tech graduate in Electronics & Communication Engineering and a PG Dipl
 ✔️ Linux Device Drivers & Kernel Programming  
 ✔️ Internet of Things (IoT) & Cloud Integration  
 ✔️ Aptitude & Effective Communication
-
----
 
 ### 🛠️ Skills  
 
@@ -40,8 +34,6 @@ I’m a B.Tech graduate in Electronics & Communication Engineering and a PG Dipl
 **🧰 Software & Tools**  
 - STM32CubeIDE, VS Code, GitHub, ThinkSpeak  
 - Microsoft Office, Git, Serial Communication Tools  
-
----
 
 ### 📫 Let’s Connect  
 - 📄 **Resume**: [View My Resume](https://drive.google.com/file/d/1d6Wt3GVfyZTXW6UR9BeJTTSkZuGT6_XH/view?usp=sharing)  
